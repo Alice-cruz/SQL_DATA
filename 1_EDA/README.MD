@@ -2,7 +2,8 @@
 A base é no modelo Star Schema, com uma fato
 `job_posting_fact` e outras três dimensões:
 `skills_jobs_dim`, `company_dim`, `skill_dim`
-![Estrutura dos Dados](./IMAGES/1_2_Data_Warehouse.png)
+![Estrutura dos Dados](/IMAGES/1_2_Data_Warehouse.png)
+
 
 # Problema e Contextualização  
 Os analistas precisam responder questões como: 
