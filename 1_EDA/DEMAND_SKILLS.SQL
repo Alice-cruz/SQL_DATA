@@ -25,5 +25,5 @@ WHERE
 group by sd.skills
 order by
   DEMAND_COUNT DESC
-limit 10
+limit 15
 
